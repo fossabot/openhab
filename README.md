@@ -1,4 +1,3 @@
-
 ## Introduction
 
 The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation. It is a pure Java solution, fully based on OSGi. The Equinox OSGi runtime and Jetty as a web server build the core foundation of the runtime.
@@ -20,6 +19,7 @@ To see openHAB in action, you can directly access our demo server - choose one o
 If you just want to watch for a start, you might also like our [YouTube channel](http://www.youtube.com/playlist?list=PLGlxCdrGUagz6lfgo9SlNLhdwI4la_VSv)!
 
 [![HABDroid](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.openhab.habdroid) [![iOSApp](http://raw.github.com/wiki/openhab/openhab/images/app-store-badges.png)](http://itunes.apple.com/us/app/openhab/id492054521?mt=8)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsplatch%2Fopenhab.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsplatch%2Fopenhab?ref=badge_shield)
 
 
 ## Quick Start
@@ -57,3 +57,7 @@ If you are a developer and want to jump right into the sources and execute openH
 ## Trademark Disclaimer
 
 Product names, logos, brands and other trademarks referred to within the openHAB website are the property of their respective trademark holders. These trademark holders are not affiliated with openHAB or our website. They do not sponsor or endorse our materials.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsplatch%2Fopenhab.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsplatch%2Fopenhab?ref=badge_large)
